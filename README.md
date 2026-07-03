@@ -58,15 +58,7 @@ São tratadas as seguintes situações:
 
 ## Demonstração
 
-<p align="center">
-  <img src="images/captura1.jpg" alt="Execução do programa" width="750">
-</p>
-<p align="center">
-  <img src="images/captura2.jpg" alt="Execução do programa" width="750">
-</p>
-<p align="center">
-  <img src="images/captura3.jpg" alt="Execução do programa" width="750">
-</p>
+
 
 ## Estrutura do projeto
 
