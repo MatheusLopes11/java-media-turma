@@ -112,7 +112,7 @@ Durante o desenvolvimento deste projeto, pratiquei:
 Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/java-media-geral-turma.git
+git clone https://github.com/MatheusLopes11/java-media-geral-turma.git
 ```
 
 Acesse a pasta do projeto:
